@@ -1,7 +1,7 @@
 Peer review and preprint policies are unclear at most major journals
 ========================================================
 author: Thomas Klebel, Stefan Reichmann, Jessica Polka, Gary McDowell, Naomi Penfold, Samantha Hindle, Tony Ross-Hellauer
-date: 2020 - 02- 06
+date: February 7, 2020
 autosize: true
 font-import: http://fonts.googleapis.com/css?family=Hind
 font-family: 'Hind'
@@ -10,13 +10,18 @@ css: talk.css
 
 Introduction
 ========================================================
+incremental:true 
+
+<tiny> </tiny>
+
+<img src="figures/success.jpg", style="float:left;"/>
+
+<img src="figures/reviewer-2.jpg", style="float:right;"/>
 
 
-Background
-========================================================
 
 
-Data & Methods
+Data
 ========================================================
 
 - 171 journals sampled from Google Scholar Metrics:
@@ -31,37 +36,58 @@ Unclear policies are very common
 
 
 
-Policy Clarity II
+Open research policies go hand in hand
 ========================================================
 ![](figures/mca_two_dim.png)
 
 
 
-Policy Clarity III
+The landscape of open research policies
 ========================================================
 ![](figures/mca_one_dim.png)
 
 
 Which type of peer review do journals employ?
 ========================================================
-![](figures/peer-type-combined-1.png)
+![](figures/peer-type.png)
 
 
-Open Peer Review
+Open peer review is very uncommon
 ========================================================
+![](figures/opr.png)
 
-
-Co-Reviewing
+Policies on co-reviewing are rare
 ========================================================
+![](figures/co-rev-1.png)
 
-
-Preprints I
+Policies on posting preprints are often available ...
 ========================================================
+![](figures/preprint-posting.png)
 
-
-Preprints II
+... but not on citing preprints
 ========================================================
-
+![](figures/preprint-citing.png)
 
 Conclusion
 ========================================================
+incremental: true
+
+The lack of clear policies is apparent.
+
+__Potential explanations:__
+
+- If given practice is not present in discipline &rarr; no need for policy
+- Practice could be ubiquitous &rarr; equally no need for policy
+
+
+__Questions:__
+
+- Any other explanations?
+- Is the lack of clarity actually a problem?
+
+Thank you for listening!
+========================================================
+
+bioRxiv preprint: https://thomasklebel.eu/transpose
+
+Data & code on GitHub: https://thomasklebel.eu/transpose-code
