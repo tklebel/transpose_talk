@@ -3,6 +3,9 @@ Peer review and preprint policies are unclear at most major journals
 author: Thomas Klebel, Stefan Reichmann, Jessica Polka, Gary McDowell, Naomi Penfold, Samantha Hindle, Tony Ross-Hellauer
 date: 2020 - 02- 06
 autosize: true
+font-import: http://fonts.googleapis.com/css?family=Hind
+font-family: 'Hind'
+
 
 Introduction
 ========================================================
@@ -11,23 +14,26 @@ Introduction
 Background
 ========================================================
 
+
 Data & Methods
 ========================================================
 
+- 171 journals sampled from Google Scholar Metrics 
+
 Unclear policies are very common
 ========================================================
-![](clarity-graph-1.png)
+![](figures/clarity-graph-1.png)
 
 
 Policy Clarity II
 ========================================================
-![](mca_two_dim.png)
+![](figures/mca_two_dim.png)
 
 
 
 Policy Clarity III
 ========================================================
-![](mca_one_dim.png)
+![](figures/mca_one_dim.png)
 
 
 Peer Review
