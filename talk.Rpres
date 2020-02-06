@@ -5,6 +5,7 @@ date: 2020 - 02- 06
 autosize: true
 font-import: http://fonts.googleapis.com/css?family=Hind
 font-family: 'Hind'
+css: talk.css
 
 
 Introduction
@@ -18,11 +19,16 @@ Background
 Data & Methods
 ========================================================
 
-- 171 journals sampled from Google Scholar Metrics 
+- 171 journals sampled from Google Scholar Metrics:
+  - Top 100 & top 20 per discipline
+
+![](figures/sample.png)
+
 
 Unclear policies are very common
 ========================================================
 ![](figures/clarity-graph-1.png)
+
 
 
 Policy Clarity II
@@ -36,8 +42,9 @@ Policy Clarity III
 ![](figures/mca_one_dim.png)
 
 
-Peer Review
+Which type of peer review do journals employ?
 ========================================================
+![](figures/peer-type-combined-1.png)
 
 
 Open Peer Review

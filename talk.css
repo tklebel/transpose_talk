@@ -1,0 +1,9 @@
+.reveal .state-background {
+  background: #fffdf5;
+} 
+
+.reveal h1,
+.reveal h2,
+.reveal p {
+  color: black;
+}
